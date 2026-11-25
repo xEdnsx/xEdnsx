@@ -57,75 +57,80 @@ Me apasiona resolver problemas complejos mediante la combinación de desarrollo 
 
 ## 🚀 Proyectos Destacados
 
-### 📦 [SupplyChain AI Copilot](https://github.com/xEdnsx/supplychain-ai-copilot)
-* Plataforma empresarial de analítica operativa y copiloto inteligente **Text-to-SQL** para la monitorización, auditoría y consulta en lenguaje natural sobre datos de cadenas de suministro, logística y manufactura.
-* Backend de alto rendimiento desarrollado con **FastAPI**, integrando **Google Gemini API** (`gemini-2.5-flash` / `gemini-3.5-flash`) mediante **Structured Outputs** (JSON Schema estricto) para traducción determinista y segura de preguntas operativas a SQL.
-* Pipeline de ciberseguridad con validación AST/Regex para prevenir inyecciones SQL y mitigación de comandos destructivos, ejecutado sobre **SQLite** en modo de solo lectura (`mode=ro`).
-* Cálculo nativo de KPIs en base de datos para minimizar drásticamente el consumo de tokens y frontend interactivo con **Tailwind CSS**, JavaScript y gráficos en **Chart.js**.
+### 📦 SupplyChain AI Copilot
+- **Enlace:** [github.com/xEdnsx/supplychain-ai-copilot](https://github.com/xEdnsx/supplychain-ai-copilot)
+- Plataforma empresarial de analítica operativa y copiloto inteligente **Text-to-SQL** para la monitorización, auditoría y consulta en lenguaje natural sobre datos de cadenas de suministro, logística y manufactura.
+- Backend de alto rendimiento desarrollado con **FastAPI**, integrando **Google Gemini API** (`gemini-2.5-flash` / `gemini-3.5-flash`) mediante **Structured Outputs** (JSON Schema estricto) para traducción determinista y segura de preguntas operativas a SQL.
+- Pipeline de ciberseguridad con validación AST/Regex para prevenir inyecciones SQL y mitigación de comandos destructivos, ejecutado sobre **SQLite** en modo de solo lectura (`mode=ro`).
+- Cálculo nativo de KPIs en base de datos para minimizar drásticamente el consumo de tokens y frontend interactivo con **Tailwind CSS**, JavaScript y gráficos en **Chart.js**.
 
 ---
 
-### ⏱️ [Ops Timesheet Auditor](https://github.com/xEdnsx/ops-timesheet-auditor)
-* Plataforma ejecutiva de auditoría operativa, análisis de rentabilidad de proyectos y clasificación inteligente de partes de horas asistida por IA.
-* Procesamiento y normalización ETL de más de 12,000 registros de actividades desde archivos Excel (`DATA.xlsx`) hacia **SQLite** mediante **FastAPI** y **Pandas**.
-* **Estrategia de optimización extrema de tokens:** Deduplicación de 12,397 filas a 83 descripciones únicas agrupadas en un único lote hacia el modelo Gemini Flash, permitiendo cruce local vía SQL JOIN con **cero costo adicional de tokens**.
-* Detección proactiva de sobrecarga laboral (>45h semanales), detección cuantitativa de fugas de margen operativo (>25%) y generación bajo demanda de reportes y diagnósticos directivos accionables con **Tailwind CSS** y **Chart.js**.
+### ⏱️ Ops Timesheet Auditor
+- **Enlace:** [github.com/xEdnsx/ops-timesheet-auditor](https://github.com/xEdnsx/ops-timesheet-auditor)
+- Plataforma ejecutiva de auditoría operativa, análisis de rentabilidad de proyectos y clasificación inteligente de partes de horas asistida por IA.
+- Procesamiento y normalización ETL de más de 12,000 registros de actividades desde archivos Excel (`DATA.xlsx`) hacia **SQLite** mediante **FastAPI** y **Pandas**.
+- **Estrategia de optimización extrema de tokens:** Deduplicación de 12,397 filas a 83 descripciones únicas agrupadas en un único lote hacia el modelo Gemini Flash, permitiendo cruce local vía SQL JOIN con **cero costo adicional de tokens**.
+- Detección proactiva de sobrecarga laboral (>45h semanales), detección cuantitativa de fugas de margen operativo (>25%) y generación bajo demanda de reportes y diagnósticos directivos accionables con **Tailwind CSS** y **Chart.js**.
 
 ---
 
-### 📚 [Biblioteca Virtual Cuzcatlán](https://bibliotecavirtualcuzcatlan.com)
-* Plataforma web integral desarrollada desde cero y desplegada en producción en Hostinger.
-* Aplicación contenedor de navegador web desarrollada en Android Studio para distribución móvil.
-* Scripts automatizados en Python para la ingesta, compresión y reconocimiento óptico de caracteres (OCR con Tesseract) sobre cientos de libros escaneados.
-* Chatbot con IA integrado mediante **n8n**, base de datos vectorial en **Supabase (pgvector)** y **OpenAI Embeddings** para consultas semánticas precisas.
+### 📚 Biblioteca Virtual Cuzcatlán
+- **Enlace:** [bibliotecavirtualcuzcatlan.com](https://bibliotecavirtualcuzcatlan.com)
+- Plataforma web integral desarrollada desde cero y desplegada en producción en Hostinger.
+- Aplicación contenedor de navegador web desarrollada en Android Studio para distribución móvil.
+- Scripts automatizados en Python para la ingesta, compresión y reconocimiento óptico de caracteres (OCR con Tesseract) sobre cientos de libros escaneados.
+- Chatbot con IA integrado mediante **n8n**, base de datos vectorial en **Supabase (pgvector)** y **OpenAI Embeddings** para consultas semánticas precisas.
 
 ---
 
 ### 🚚 TranKilo *(Finalista Internacional - Desafío Naranja 2026)* `🔒 Privado`
-* Plataforma móvil y backend orientada a la contratación y gestión eficiente de servicios de mudanzas y logística.
-* Desarrollada con **Ionic** y backend serverless en **Supabase**.
-* Proyecto galardonado como finalista internacional representando a El Salvador e ITCA-FEPADE en Santo Domingo, República Dominicana.
+- Plataforma móvil y backend orientada a la contratación y gestión eficiente de servicios de mudanzas y logística.
+- Desarrollada con **Ionic** y backend serverless en **Supabase**.
+- Proyecto galardonado como finalista internacional representando a El Salvador e ITCA-FEPADE en Santo Domingo, República Dominicana.
 
 ---
 
 ### 🧹 SwiftSite Clean
-* Aplicación multiplataforma (Web y Móvil) para la gestión comercial y operativa de servicios de limpieza residencial e industrial.
-* Desarrollada con **Ionic (Standalone Components)** y **Vue.js**, proporcionando una arquitectura desacoplada, reactiva y moderna.
+- **Enlace:** [github.com/xEdnsx/SwiftSiteCleantest](https://github.com/xEdnsx/SwiftSiteCleantest)
+- Aplicación multiplataforma (Web y Móvil) para la gestión comercial y operativa de servicios de limpieza residencial e industrial.
+- Desarrollada con **Ionic (Standalone Components)** y **Vue.js**, proporcionando una arquitectura desacoplada, reactiva y moderna.
 
 ---
 
-### 📊 SART (Sistema de Asistencia y Recursos Humanos) `🔒 Privado`
-* Sistema web empresarial en **PHP** y **MySQL** para el control de asistencia y personal.
-* Incluye motor automatizado para la lectura, validación y consolidación de hojas de cálculo de asistencia en Excel.
-* Módulo de auditoría por roles y motor de reglas laborales parametrizado para la legislación de El Salvador, Guatemala y Nicaragua.
+### 📊 SART (Sistema de Marcaciones, Asistencia y Reporte de Tardanzas)
+- **Enlace:** [github.com/xEdnsx/SART-Sistema-de-Marcaciones-Asistencia-y-Reporte-de-Tardanzas-](https://github.com/xEdnsx/SART-Sistema-de-Marcaciones-Asistencia-y-Reporte-de-Tardanzas-)
+- Sistema web empresarial en **PHP** y **MySQL** para el control de asistencia y personal.
+- Incluye motor automatizado para la lectura, validación y consolidación de hojas de cálculo de asistencia en Excel.
+- Módulo de auditoría por roles y motor de reglas laborales parametrizado para la legislación de El Salvador, Guatemala y Nicaragua.
+
+---
+
+### 🏥 Clínica Medicare
+- **Enlace:** [github.com/xEdnsx/ClinicaMedicare](https://github.com/xEdnsx/ClinicaMedicare)
+- Sistema integral de escritorio para gestión clínica y hospitalaria desarrollado en **C#** y **.NET Framework (Windows Forms)** con base de datos relacional en **Microsoft SQL Server**.
+- Módulos para administración de pacientes, expedientes clínicos digitales, programación de citas médicas, registro de consultas y pruebas diagnósticas con generación de reportes estructurados.
 
 ---
 
 ### 🤖 Asistente IA Auto-hospedado en Telegram `🔒 Privado`
-* Bot conversacional auto-hospedado y conectado a modelos de lenguaje locales mediante **Ollama (Qwen 2.5)** sobre un servidor Debian Linux optimizado.
-* Diseñado para operar de manera autónoma y privada sin depender de APIs de terceros.
+- Bot conversacional auto-hospedado y conectado a modelos de lenguaje locales mediante **Ollama (Qwen 2.5)** sobre un servidor Debian Linux optimizado.
+- Diseñado para operar de manera autónoma y privada sin depender de APIs de terceros.
 
 ---
 
-### 🅿️ Prototipo de Control de Parqueo Automatizado (ITCA-FEPADE)
-* Solución integral IoT hardware-software para la supervisión y control de disponibilidad de plazas de aparcamiento en tiempo real.
-* Construido con **Arduino**, sensores ultrasónicos HC-SR04, servomotores y pantalla GLCD ST7920.
-* Comunicación serial con interfaz en **Python** para Windows y almacenamiento de telemetría en **MySQL**.
+### 🅿️ Smart Parking System (ITCA-FEPADE)
+- **Enlace:** [github.com/xEdnsx/Smart-Parking-System---ITCA-FEPADE](https://github.com/xEdnsx/Smart-Parking-System---ITCA-FEPADE)
+- Solución integral IoT hardware-software para la supervisión y control de disponibilidad de plazas de aparcamiento en tiempo real.
+- Construido con **Arduino**, sensores ultrasónicos HC-SR04, servomotores y pantalla GLCD ST7920.
+- Comunicación serial con interfaz en **Python** para Windows y almacenamiento de telemetría en **MySQL**.
 
 ---
 
 ### 🎬 MovieSpace
-* Aplicación web para la gestión y exploración de catálogo multimedia desarrollada con **PHP**, **Laravel 12** y **MySQL**.
-* Implementación de autenticación segura, reportes estructurados en PDF mediante DomPDF y consumo de la API RESTful de OMDb.
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xEdnsx&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEdnsx&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" width="48%">
-</p>
+- **Enlace:** [github.com/xEdnsx/MovieSpace](https://github.com/xEdnsx/MovieSpace)
+- Aplicación web para la gestión y exploración de catálogo multimedia desarrollada con **PHP**, **Laravel 12** y **MySQL**.
+- Implementación de autenticación segura, reportes estructurados en PDF mediante DomPDF y consumo de la API RESTful de OMDb.
 
 ---
 
