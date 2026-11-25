@@ -1,78 +1,120 @@
 # Edenilson Vladimir Soriano Campos
-### Técnico en Ingeniería de Desarrollo de Software | Desarrollador de Software Jr.
+### 🚀 Desarrollador Web & Especialista en Automatización | Técnico en Ingeniería en Desarrollo de Software
 
 <p align="left">
-  <a href="mailto:sorianocamposedenilson@gmail.com"><img src="https://img.shields.io/badge/Email-sorianocamposedenilson%40gmail.com-blue?style=flat-square&logo=gmail" alt="Gmail"></a>
-  <a href="mailto:edenilson.soriano25@itca.edu.sv"><img src="https://img.shields.io/badge/Academic--Email-edenilson.soriano25%40itca.edu.sv-orange?style=flat-square&logo=gmail" alt="Academic Gmail"></a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-La%20Libertad%2C%20El%20Salvador-green?style=flat-square" alt="Ubicación">
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-El%20Salvador-0047AB?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación">
+  <a href="mailto:sorianocamposedenilson@gmail.com"><img src="https://img.shields.io/badge/Email-sorianocamposedenilson%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:edenilson.soriano25@itca.edu.sv"><img src="https://img.shields.io/badge/Email%20Acad%C3%A9mico-edenilson.soriano25%40itca.edu.sv-FFA500?style=flat-square&logo=gmail&logoColor=white" alt="Email Académico"></a>
+  <a href="https://github.com/xEdnsx"><img src="https://img.shields.io/badge/GitHub-xEdnsx-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-## 🚀 Acerca de mí
+## 👨‍💻 Sobre Mí
 
-Estudiante de **Ingeniería de Desarrollo de Software** en ITCA-FEPADE con una sólida base técnica en programación multilingüe, entornos de servidores Linux y bases de datos relacionales y NoSQL. Combino competencias técnicas de desarrollo backend y administración de sistemas con habilidades organizacionales, contabilidad y atención al cliente, lo que me permite aportar una visión estructurada, analítica e integral a equipos de tecnología y proyectos de software escalables.
+Desarrollador de software salvadoreño enfocado en la construcción de plataformas web robustas, arquitecturas modernas y soluciones integrales de automatización de procesos e inteligencia artificial. Cuento con experiencia en el ciclo completo de vida del software: desde la concepción, diseño e implementación backend/frontend, hasta la infraestructura de servidores, despliegue en producción y orquestación de flujos de trabajo inteligentes.
 
----
-
-## 🛠️ Habilidades Técnicas (Skills)
-
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes de Programación** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks & CMS** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Sistemas & Servidores** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) *(BIND9 DNS, Shell Scripting)* |
-| **Herramientas de Dev** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| **Otras Competencias** | Contabilidad General, Gestión de Inventarios, Automatización, Virtualización (VirtualBox) |
+Me apasiona resolver problemas complejos mediante la combinación de desarrollo web moderno, modelos de IA (APIs y LLMs locales con pgvector), procesamiento digital de documentos y automatización basada en eventos.
 
 ---
 
-## 📁 Proyectos Destacados
+## 🎓 Formación Académica & Reconocimientos
 
-### 🚍 Bus Route Simulator
-* **Tecnologías:** Python, Algoritmia Estructurada.
-* **Descripción:** Simulador logístico desarrollado para la optimización y control de rutas de transporte público urbano. Resuelve problemas de asignación de tiempos, control de trayectos y flujos lógicos en tiempo real para la gestión eficiente del transporte.
-
-### 🅿️ Sistema de Parqueo Automatizado
-* **Tecnologías:** Arduino C++, Sensores Ultrasonónicos (HC-SR04), Integración SQL, Python (Serial Comm).
-* **Descripción:** Prototipo funcional IoT de un sistema de estacionamiento inteligente. Monitorea la disponibilidad de espacios físicos mediante sensores de proximidad y transmite los datos mediante comunicación serial a una base de datos centralizada SQL para el control y visualización de plazas en tiempo real.
-
-### 📚 Biblioteca Virtual Cuzcatlán (Optimización Digital)
-* **Tecnologías:** WordPress, n8n, PowerShell, Ghostscript, Plugin DearFlip.
-* **Descripción:** Automatización del procesamiento, compresión por lotes e indexación de 371 documentos PDF complejos para su integración optimizada en una plataforma de biblioteca virtual, reduciendo tiempos de carga web y consumo de almacenamiento en servidor.
-
-### 🌐 Infraestructura de Red Local (BIND9 DNS)
-* **Tecnologías:** Debian Linux, BIND9, Automatización de Scripts.
-* **Descripción:** Configuración, despliegue y solución de problemas de un servidor DNS local funcional bajo el dominio `rinsa.com` en entorno Debian nativo, manejando zonas directas/inversas, reenvíos de red y aseguramiento de interfaces de red estáticas.
+- **Técnico en Ingeniería en Desarrollo de Software**  
+  *ITCA-FEPADE (Campus Santa Tecla, El Salvador)* — Egresado / Finalizando en 2026.
+- **Becario del Fondo SV-NET**  
+  Beneficiario de beca por excelencia y compromiso académico.
+- **Programa Estudiantil Visionarios de ITCA-FEPADE**  
+  Miembro activo seleccionado (Ciclo II-2025 a Ciclo II-2026).
+- 🏆 **Finalista Internacional – Desafío Naranja 2026**  
+  Representante de El Salvador e ITCA-FEPADE en la Gran Final Internacional organizada por **Fundación Filarmonía** en Santo Domingo, República Dominicana, con el proyecto **TranKilo**.
 
 ---
 
 ## 💼 Experiencia Laboral
 
-#### **Guía Turístico y Encargado de Ventas** | *Emprendimiento Local / Destinos Turísticos*
-*Noviembre 2023 – Noviembre 2024 (Jayaque, La Libertad)*
-* Enfoque en atención al cliente, guiado especializado y gestión de experiencia de usuario.
-* Control total de inventarios físicos y coordinación directa con proveedores clave.
-
-#### **Auxiliar de Distribución y Logística** | *Distribuidora de Consumo*
-*Diciembre 2024 (La Libertad)*
-* Gestión rápida de canales de distribución, logística de despacho y entrega a minoristas.
-* Control de caja, atención directa al consumidor y resolución de incidencias logísticas de ruta.
+### **Desarrollador Web & Especialista en Automatización**
+* **Desarrollo Integral End-to-End:** Creación y arquitectura de plataformas web desde cero y despliegue continuo en entornos de hosting de producción (Hostinger).
+* **Soluciones Móviles:** Desarrollo y empaquetado de contenedores de aplicaciones web para entornos móviles.
+* **Automatización y Procesamiento Inteligente:** Diseño de flujos automatizados complejos con **n8n**, procesamiento avanzado de documentos PDF y extracción masiva de texto mediante OCR (Tesseract).
+* **Integración de Inteligencia Artificial:** Implementación de asistentes y chatbots potenciados con IA, búsqueda semántica y vectorial utilizando OpenAI Embeddings, Supabase pgvector y modelos locales.
+* **Liderazgo Técnico:** Liderazgo de equipo de desarrollo de software durante prácticas laborales (320 horas para Frío Aire en San Salvador).
 
 ---
 
-## 🎓 Educación
+## 🛠️ Stack Tecnológico
 
-* **Técnico en Ingeniería de Desarrollo de Software**
-  *ITCA - FEPADE* | (2025 - Presente)
-* **Bachillerato Técnico Vocacional en Contaduría**
-  *Instituto Nacional Heber Remberto Trujillo Díaz* | (2022 - 2024)
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Lenguajes** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks & Librerías** | ![Laravel](https://img.shields.io/badge/Laravel_11_&_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase_(pgvector)-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Automatización & IA** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama_(Qwen_2.5)-000000?style=flat-square&logo=ollama&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5C5C5C?style=flat-square&logo=tesseract&logoColor=white) |
+| **Servidores, DevOps & SysAdmin** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_(Debian/Ubuntu/Kali)-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![DNS / BIND9](https://img.shields.io/badge/BIND9_DNS-1B365D?style=flat-square) ![Hostinger](https://img.shields.io/badge/Hostinger_(WP--CLI)-673AB7?style=flat-square&logo=hostinger&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Metodologías & Gestión** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-informational?style=flat-square) ![Kanban](https://img.shields.io/badge/Kanban-informational?style=flat-square) ![XP / ASD](https://img.shields.io/badge/Agile_(XP_/_ASD)-informational?style=flat-square) |
 
 ---
 
-## 🤝 Contacto y Conectividad
+## 🚀 Proyectos Destacados
 
-¡Siempre estoy abierto a colaborar en proyectos de código abierto, desarrollo backend y administración de sistemas!
-``* **LinkedIn:** [Tu Perfil de LinkedIn Aquí](https://linkedin.com)``
-* **Correo:** [sorianocamposedenilson@gmail.com](mailto:sorianocamposedenilson@gmail.com)
+### 📚 [Biblioteca Virtual Cuzcatlán](https://bibliotecavirtualcuzcatlan.com)
+* Plataforma web integral desarrollada desde cero y desplegada en producción en Hostinger.
+* Aplicación contenedor de navegador web desarrollada en Android Studio para distribución móvil.
+* Scripts automatizados en Python para la ingesta, compresión y reconocimiento óptico de caracteres (OCR con Tesseract) sobre cientos de libros escaneados.
+* Chatbot con IA integrado mediante **n8n**, base de datos vectorial en **Supabase (pgvector)** y **OpenAI Embeddings** para consultas semánticas precisas.
+
+---
+
+### 🚚 TranKilo *(Finalista Internacional - Desafío Naranja 2026)* `🔒 Privado`
+* Plataforma móvil y backend orientada a la contratación y gestión eficiente de servicios de mudanzas y logística.
+* Desarrollada con **Ionic** y backend serverless en **Supabase**.
+* Proyecto galardonado como finalista internacional representando a El Salvador e ITCA-FEPADE en Santo Domingo, República Dominicana.
+
+---
+
+### 🧹 SwiftSite Clean
+* Aplicación multiplataforma (Web y Móvil) para la gestión comercial y operativa de servicios de limpieza residencial e industrial.
+* Desarrollada con **Ionic (Standalone Components)** y **Vue.js**, proporcionando una arquitectura desacoplada, reactiva y moderna.
+
+---
+
+### 📊 SART (Sistema de Asistencia y Recursos Humanos) `🔒 Privado`
+* Sistema web empresarial en **PHP** y **MySQL** para el control de asistencia y personal.
+* Incluye motor automatizado para la lectura, validación y consolidación de hojas de cálculo de asistencia en Excel.
+* Módulo de auditoría por roles y motor de reglas laborales parametrizado para la legislación de El Salvador, Guatemala y Nicaragua.
+
+---
+
+### 🤖 Asistente IA Auto-hospedado en Telegram `🔒 Privado`
+* Bot conversacional auto-hospedado y conectado a modelos de lenguaje locales mediante **Ollama (Qwen 2.5)** sobre un servidor Debian Linux optimizado.
+* Diseñado para operar de manera autónoma y privada sin depender de APIs de terceros.
+
+---
+
+### 🅿️ Prototipo de Control de Parqueo Automatizado (ITCA-FEPADE)
+* Solución integral IoT hardware-software para la supervisión y control de disponibilidad de plazas de aparcamiento en tiempo real.
+* Construido con **Arduino**, sensores ultrasónicos HC-SR04, servomotores y pantalla GLCD ST7920.
+* Comunicación serial con interfaz en **Python** para Windows y almacenamiento de telemetría en **MySQL**.
+
+---
+
+### 🎬 MovieSpace
+* Aplicación web para la gestión y exploración de catálogo multimedia desarrollada con **PHP**, **Laravel 12** y **MySQL**.
+* Implementación de autenticación segura, reportes estructurados en PDF mediante DomPDF y consumo de la API RESTful de OMDb.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xEdnsx&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de GitHub" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xEdnsx&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" width="48%">
+</p>
+
+---
+
+## 📬 Conecta Conmigo
+
+- 📧 **Correo Personal:** [sorianocamposedenilson@gmail.com](mailto:sorianocamposedenilson@gmail.com)
+- 🎓 **Correo Académico:** [edenilson.soriano25@itca.edu.sv](mailto:edenilson.soriano25@itca.edu.sv)
+- 💻 **GitHub:** [@xEdnsx](https://github.com/xEdnsx)
